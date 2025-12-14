@@ -1,4 +1,4 @@
-!! Deplyed for CharlieRp | OSA Servizio medico nazionale CharlieRp !! 
+> [!NOTE] Deplyed for CharlieRp | OSA Servizio medico nazionale CharlieRp
 
 # A Next.js Blog with a Native Authoring Experience<!-- omit in toc -->
 
